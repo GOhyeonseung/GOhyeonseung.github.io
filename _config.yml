@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "행복한 프로그램 개발자"
   location         : "대한민국, 화성"
-  email            : "gohyeonseung55@gmail.com
+  email            : "gohyeonseung55@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
